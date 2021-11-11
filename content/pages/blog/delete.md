@@ -1,5 +1,5 @@
 ---
-title: delete123
+title: delete
 date: '2021-11-11'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
