@@ -1,5 +1,5 @@
 ---
-title: newContact
+title: 'newContact1 '
 sections:
   - type: HeroSection
     title: Contact us
